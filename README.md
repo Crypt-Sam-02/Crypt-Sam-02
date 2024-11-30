@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Singh</h1>
 <h3 align="center">🚀 Designer | Open Source Enthusiast | Tech Explorer 🌍 Passionate about building innovative solutions and contributing to the open source community. 💻 Currently exploring the realms of web development, machine learning, cybersecurity, and cloud computing. 📚 Lifelong learner and avid problem solver. Let's connect and collaborate on exciting projects!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=designwanderersam&label=Profile%20views&color=0e75b6&style=flat" alt="designwanderersam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=designwanderersam" alt="designwanderersam" /></a> </p>
 
 - 🌱 I’m currently learning **Cybersecurity and Networking**
 
